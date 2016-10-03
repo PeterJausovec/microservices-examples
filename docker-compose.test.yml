@@ -1,2 +1,4 @@
-blah:
-    image: node
+version: "2"
+services:
+    blah:
+        image: node
